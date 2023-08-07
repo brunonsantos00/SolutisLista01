@@ -1,0 +1,38 @@
+Lista de Exercícios 01 – Introdução Java
+----------------------------------------------------------------------------------------
+
+1. O que são variáveis locais?
+
+R: São variáveis que só podem ser utilizadas dentro do bloco que foram declaradas.
+
+----------------------------------------------------------------------------------------
+
+2. Quais os tipos de dados primitivos da linguagem Java?
+
+R: São blocos básicos de dados que representam valores simples, como números inteiros, números decimais, caracteres e valores lógicos.
+
+----------------------------------------------------------------------------------------
+
+3. O que são bytecodes?
+
+R: Bytecode é o resultado do compilamento do código escrito em java que será executado pela jvm.
+
+----------------------------------------------------------------------------------------
+
+4. O que é uma referência?
+
+R: É um ponteiro para algum bloco na memória.
+
+----------------------------------------------------------------------------------------
+
+5. O que é Garbage Collection?
+
+R: Processo automático para deletar código que já não é mais usado.
+
+----------------------------------------------------------------------------------------
+
+6. Qual a necessidade de adotar um padrão de codificação?
+
+R: Para facilitar a criação e manutenção do projeto já que outros programadores vão ter acesso ao código futuramente, então isso ajuda a trabalhar em equipe e deixa o código mais legível para manutenção.
+
+----------------------------------------------------------------------------------------
